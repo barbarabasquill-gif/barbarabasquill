@@ -30,13 +30,13 @@ I leverage this GitHub profile to host open-source marketing frameworks, program
 
 ### 📂 Featured Marketing Frameworks (Repositories)
 
-*📂 [abm-campaign-architecture](https://github.com)* Coming soon!
+*📂 [abm-campaign-architecture](https://github.com)* Mapping Framework Coming soon!
 > An end-to-end framework mapping out target account tiering, multi-touch plays, and intent-data triggers for enterprise cybersecurity accounts.
 
-*📂 [martech-enablement-kits](https://github.com)* Coming soon!
+*📂 [martech-enablement-kits](https://github.com)* Programmatic Playbook Coming soon!
 > Documented workflows and templates demonstrating how to align global channel partners with localized field marketing assets.
 
-*📂 [demand-gen-roi-models](https://github.com)* Coming Soon!
+*📂 [demand-gen-roi-models](https://github.com)* Templates Coming Soon!
 > Sanitized spreadsheet templates and markdown reports tracking multi-channel attribution and lead-to-opportunity acceleration metrics.
 
 ---
