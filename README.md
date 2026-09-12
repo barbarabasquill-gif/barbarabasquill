@@ -24,10 +24,10 @@ I leverage this GitHub profile to host open-source marketing frameworks, program
 | :--- | :--- |
 | **CRM & Automation** | Salesforce (SFDC), Marketo, HubSpot |
 | **ABM & Intent Data** | 6sense, Demandbase, Bombora, LinkedIn Campaign Manager, Qualified AI |
-| **Data & Analytics** | Google Analytics, Adobe Experience Cloud, Tableau, Excel (Advanced) |
+| **Data & Analytics** | G2, Google Analytics, Adobe Experience Cloud, Tableau, LeadIQ, Excel (Advanced) |
 | **Project & Code Ops** | Jira, Confluence, GitHub (Project Boards & Markdown Document Automation),Asana, Workfront |
-| **Sales Enablement** | Gong.io, Seismic, ZoomInfo, Clari, CaptivateIQ, Loom AI, Outreach |
-| **GTM Platforms** | Apollo.io, ZoomInfo, Canva, Customer io, Optimizely, Ranked AI, Crunchbase, ActiveCampaign, GainSight, Bombora, G2, Reachdesk |
+| **Sales Enablement & Customer Success** | Gong.io, Seismic, ZoomInfo, Clari, CaptivateIQ, Loom AI, Outreach, Crayon, ChrunZero, CaptivateIQ |
+| **GTM Platforms** | Apollo.io, ZoomInfo, Canva, Customer io, Optimizely, Ranked AI, Crunchbase, Propensity, ActiveCampaign, GainSight, Bombora, Reachdesk |
 
 ---
 
