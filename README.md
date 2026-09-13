@@ -1,4 +1,4 @@
-# barbarabasquill
+
 # Hi, I'm Barbara Basquill 👋
 ### Senior B2B Marketing Leader | Enterprise ABM & Demand Generation | Cybersecurity & SaaS Specialist
 
