@@ -46,7 +46,7 @@ I leverage this GitHub profile to host my open-source marketing frameworks, prog
 *📁 [AI-Powered ABM Command Center](https://github.com/barbarabasquill/ai-powered-abm-command-center)  
 > AI-powered framework for enterprise account prioritization, buying-group mapping, coordinated plays, Sales alignment, and pipeline measurement.
 
-*📁 [Sales Enablement Content Builder](REPOSITORY-LINK-COMING-SOON)  
+*📁 [Sales Enablement Content Builder](https://github.com/barbarabasquill/sales-enablement-content-builder))  
 > AI-assisted system for transforming complex AI, cloud, cybersecurity, and SaaS solutions into seller-ready content.
 
 ---
