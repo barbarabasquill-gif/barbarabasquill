@@ -43,7 +43,7 @@ I leverage this GitHub profile to host my open-source marketing frameworks, prog
 *📂 [demand-gen-roi-models](https://github.com)* Templates Coming Soon!
 > Sanitized spreadsheet templates and markdown reports tracking multi-channel attribution and lead-to-opportunity acceleration metrics.
 
-*📁 [AI-Powered ABM Command Center](-REPOSITORY-LINK-COMING-SOON)  
+*📁 [AI-Powered ABM Command Center](https://github.com/barbarabasquill/ai-powered-abm-command-center)  
 > AI-powered framework for enterprise account prioritization, buying-group mapping, coordinated plays, Sales alignment, and pipeline measurement.
 
 *📁 [Sales Enablement Content Builder](REPOSITORY-LINK-COMING-SOON)  
