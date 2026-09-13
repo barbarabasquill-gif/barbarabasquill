@@ -4,7 +4,7 @@
 
 A growth-driven and data-backed Marketing Executive with extensive experience building high-impact demand generation, Account-Based Marketing (ABM), and channel enablement programs for global technology leaders (including **Cisco**, **Red Hat-IBM**, **Forcepoint**, and **Delinea**). 
 
-I leverage this GitHub profile to host open-source marketing frameworks, programmatic playbooks, and MarTech architectural workflows that bridge the gap between complex technical products and revenue-generating marketing strategies.
+I leverage this GitHub profile to host my open-source marketing frameworks, programmatic playbooks, and MarTech architectural workflows that bridge the gap between complex technical products and revenue-generating marketing strategies.
 
 ---
 
