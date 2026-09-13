@@ -11,6 +11,7 @@ I leverage this GitHub profile to host my open-source marketing frameworks, prog
 ### 🚀 Core Expertise & Impact
 
 - 🎯 **Enterprise ABM & Demand Gen:** Designing multi-channel marketing tactics that strengthen and scale enterprise pipelines.
+-  **AI & Agentic Native:** Lead the translation of complex technical architectures into differentiated go-to-market strategies and integrated campaigns, aligning cross-functional teams around compelling positioning for agentic AI solutions, shaping buyer decisions, accelerating pipeline growth, and delivering measurable revenue impact.
 - 🛡️ **Cybersecurity Native:** Translating complex technical architectures (Zero Trust, SASE, Identity/PAM, Cloud Security) into high-converting B2B buyer journeys.
 - 🤝 **Channel & Field Enablement:** Aligning Product, Sales, and Channel partners to drive cohesive field execution and partner-led growth.
 - 📊 **Data-Driven Optimization:** Leveraging advanced analytics to map attribution, shorten sales cycles, and maximize campaign ROI.
