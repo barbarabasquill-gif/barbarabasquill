@@ -1,6 +1,6 @@
 
 # Hi, I'm Barbara Basquill 👋
-### Senior B2B Marketing Leader | Enterprise ABM & Demand Generation | Cybersecurity & SaaS Specialist
+### B2B Marketing Leader | Enterprise ABM & Demand Generation | Cybersecurity & SaaS Specialist
 
 A growth-driven and data-backed Marketing Executive with extensive experience building high-impact demand generation, Account-Based Marketing (ABM), and channel enablement programs for global technology leaders (including **Cisco**, **Red Hat-IBM**, **Forcepoint**, and **Delinea**). 
 
